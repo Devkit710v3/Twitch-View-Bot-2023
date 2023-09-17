@@ -40,7 +40,7 @@ This software allows you to send viewers to your Twitch live stream without the 
 - If the audience delivery takes too long and sends only a few viewers, close the client and reopen it, then repeat the same steps. (Proxy sites can sometimes slow down.)
 
 # Stars ⭐
-- Send more viewers and monetize ads / 50 Star ⭐ ✔️ 17.05.2023
+- Send more viewers and monetize ads / 50 Star ⭐ ❌ Coming Soon....
 - It automatically lowers the broadcast quality and prevents the audience drop. / 100 Star ⭐⭐⭐ ❌ Coming Soon....
 
 # ⚠️Legal⚠️
