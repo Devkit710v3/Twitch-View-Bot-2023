@@ -142,7 +142,7 @@ def main():
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Rebrands [$45]""")))
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Premium Version [$10]""")))
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Support is no longer avilable for FREE Version.""")))
-    print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Discord.gg/fWjnPVnSc""")))
+    print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Discord.gg/aDCqdcHcuH""")))
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Github.com/Devkit710v3""")))
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""______________________________________________________________________________________________________________""")))
 
@@ -264,7 +264,7 @@ def main():
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Rebrands [$50]""")))
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Premium Version [$10]""")))
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Support is no longer avilable for FREE Version.""")))
-    print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Discord.gg/fWjnPVnSc""")))
+    print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Discord.gg/aDCqdcHcuH""")))
     print(Colorate.Vertical(Colors.cyan_to_green, Center.XCenter("""Github.com/Devkit710v3""")))
     print('')
     print('')
