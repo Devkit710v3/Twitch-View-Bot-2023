@@ -1,4 +1,4 @@
-[Discord](https://Discord.gg/fWjnPVnSc)
+[Discord](https://discord.gg/aDCqdcHcuH)
 
 
 ### No need for a proxy. ⚠️
@@ -13,7 +13,7 @@ This software allows you to send viewers to your Twitch live stream without the 
 
 # 📥 Installation & Usage
 
-### - For the detailed installation pdf, which is the solution to all errors, come to my [discord server](https://Discord.gg/fWjnPVnSc)
+### - For the detailed installation pdf, which is the solution to all errors, come to my [discord server](https://discord.gg/aDCqdcHcuH)
 
 - Python must be installed
 - If your Python is not installed, download the latest version (3.11) of python and make sure to click on the 'ADD TO PATH' during installation.
